@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P-iyushRaj
+- 👋 Hi, I’m Piyush Raj
 - 👀 I’m interested in Django Rest Framework ( DRF python )
 - 🌱 I’m currently learning Beego framework ( golang )
 - 💞️ I’m looking to collaborate on ...
